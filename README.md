@@ -10,3 +10,15 @@ Dissemination areas Cartographic Map | [StatsCanada - Census Products](https://w
 Dissemination blocks Cartographic Map | [StatsCanada - Census Products](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm)
 Dissemination area demographic profiles | [StatsCanada - Download, Census Profile, 2016 Census](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/download-telecharger/comp/page_dl-tc.cfm?Lang=E)
 Dissemination blocks population totals | [StatsCanada - GeoSuite](https://geosuite.statcan.gc.ca/geosuite/en/index#self)
+
+Typical Python Packages:
+
+* Pandas
+* Dask
+* Numpy
+* Tqdm
+* PyShp
+* Shapely
+* pyproj
+* geocoder
+* 
