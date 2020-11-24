@@ -21,4 +21,3 @@ Typical Python Packages:
 * Shapely
 * pyproj
 * geocoder
-* 
